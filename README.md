@@ -18,4 +18,5 @@ F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History a
 ## Update Log
 
 10-28-2020 : Started the project and made first commit
-10-28-2020 : Preprocessed the data
+10-28-2020 : Preprocessed the data and created recommender system
+10-28-2020 : Final Commit
